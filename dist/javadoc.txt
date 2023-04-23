@@ -1,0 +1,54 @@
+
+/**
+
+*
+
+* @author yusuf hakan güneş & yusuf.gunes5@ogr.sakarya.edu.tr
+
+* @since 23.04.2023
+
+* <p>
+
+*  1A
+
+* </p>
+
+*/
+
+
+
+	/**
+
+	* Varsayılan kurucu fonksiyon
+
+	*/
+
+
+
+	/**
+
+	*
+
+	* @param motorNo UUID olarak motor id
+
+	* @return motor instance
+
+	*/
+
+
+
+	/**
+
+	* calisiyor true yapılıyor
+
+	*/
+
+
+
+	/**
+
+	* Motorun durdurulması //
+
+	*/
+
+

@@ -1,0 +1,6 @@
+/* Başlangıçta false */
+
+/*
+	* Varolan bir motor no ile oluşturuluyor.
+	*/
+
